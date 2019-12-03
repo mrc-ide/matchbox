@@ -1,4 +1,4 @@
 library(testthat)
-library(zen)
+library(matchbox)
 
-test_check("zen")
+test_check("matchbox")
